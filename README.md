@@ -24,4 +24,4 @@ If you have any questions regarding this project or my submission, feel free to 
 
 Email: [[email](ossiekcjohnson@gmail.com)]
 LinkedIn: [[LinkedIn Profile](www.linkedin.com/in/oslin-johnson-9400691ab)]
-LiveLink: [[Live_Link]() ]
+LiveLink: [[Live_Link](https://main--9point.netlify.app/) ]
