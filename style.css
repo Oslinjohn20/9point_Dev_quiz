@@ -97,6 +97,7 @@ header {
 }
 .nav-open .nav-menu-side {
   left: 47%;
+  display: block;
 }
 @media screen and (max-width: 1024px) {
   .nav-open .nav-menu-side {
@@ -132,6 +133,8 @@ header {
   top: 0px;
   z-index: -1;
   background: #dddbdb;
+  display: none;
+
 }
 .nav-menu-side-nav {
   margin-top: 36px;
